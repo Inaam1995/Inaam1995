@@ -107,14 +107,6 @@ const currentFocus = {
   <img src="https://github.com/Inaam1995/Inaam1995/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div> -->
 
-
-## 📊 Contribution Visualization
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inaam1995&theme=radical&hide_border=true&custom_title=Annual%20Contribution%20Graph" alt="Contribution Graph" width="100%">
-</div>
-
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Inaam1995&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/Inaam1995?label=Followers&style=social" alt="GitHub Followers">
