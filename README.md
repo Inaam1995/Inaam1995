@@ -6,10 +6,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[AI Agents]**
-- 🌱 I'm currently learning **[n8n & langchain]**
-- 💬 Ask me about **[Python]**
-- 📫 How to reach me: **[inaamilahi.work@gmail.com]**
+- 🔭 I'm currently working on **AI Agents**
+- 🌱 I'm currently learning **n8n & langchain**
+- 💬 Ask me about **Python**
+- 📫 How to reach me: **inaamilahi.work@gmail.com**
 
 ## 📊 GitHub Stats
 
